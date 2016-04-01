@@ -1,0 +1,5 @@
+
+# get CMD @ container
+
+docker exec -i -t $name bash
+

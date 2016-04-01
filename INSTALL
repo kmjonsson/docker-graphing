@@ -1,0 +1,7 @@
+
+# https://docs.docker.com/engine/installation/linux/ubuntulinux/
+apt-get install docker-engine
+
+# graphing internal network :-)
+docker network create graphing
+
